@@ -42,7 +42,7 @@ From that view you navigate to various places, at the bottom/top(depends if you 
 ---------------------------------------------------------------------
 
 Contributors:-
-Bhimavarapu Sravya Pranati
+Seelam Venkatareddy
 
 ---------------------------------------------------------------------
 
